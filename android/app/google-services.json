@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483629234635",
+    "project_id": "delivery-24546",
+    "storage_bucket": "delivery-24546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483629234635:android:fbd18c7cb679b6115b9e4e",
+        "android_client_info": {
+          "package_name": "com.usman2000.Dboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483629234635-pskfd5fircg4mksucpc8eolelkp7qpgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhWwkQmbzXBsoOW3H4B2izfvhlmiLsqDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483629234635-pskfd5fircg4mksucpc8eolelkp7qpgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
